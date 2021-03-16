@@ -1,0 +1,19 @@
+{
+    "name": "workman/lumen-serve",
+    "description": "artisan serve for lumen projects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "henry",
+            "email": "s280170000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "Workman\\Lmserve\\": "src/"
+        }
+    }
+}
