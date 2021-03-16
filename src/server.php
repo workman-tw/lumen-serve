@@ -1,6 +1,6 @@
 <?php
 
-namespace workman\Lmserve\Console\Commands;
+namespace Workman\Lmserve;
 
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Input\InputOption;
